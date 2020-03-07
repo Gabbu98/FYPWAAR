@@ -1,0 +1,4 @@
+item to user / item to item ideas
+based on rating
+based on clicks
+based on location
