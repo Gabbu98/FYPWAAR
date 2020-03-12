@@ -8,6 +8,9 @@ from sklearn.neighbors import NearestNeighbors
 from fuzzywuzzy import fuzz
 
 class KnnRecommenderSystem:
+    """
+    Item-based collaborative filtering recommender with KNN implemented using sklearn
+    """
     def __init__(self, path_tasks, path_ratings):
         self.path_tasks = path_tasks
         self.path_ratings = path_ratings
@@ -16,12 +19,27 @@ class KnnRecommenderSystem:
         self.model = NearestNeighbors()
 
     def set_filter_params(self, task_rating_thres, user_rating_thres):
+        """
+        Set rating frequency threshold to filter unpopular tasks
+
+        Parameters
+        ----------
+        task_rating_thres: int, minimum of ratings given by users
+        """
         self.task_rating_thres = task_rating_thres
         self.user_rating_thres = user_rating_thres
 
     def set_model_params(self, n_neighbors, algorithm, metric, n_jobs=None):
-        if n_jobs and (n_jobs > 1 or n_jobs == -1):
-            os.environ['JOBLIB_TEMP_FOLDER'] = '/tmp'
+        """
+        n_neighbors: int, optional (default = 5)
+
+        algorithm: {'auto', 'ball_tree', 'kd_tree', 'brute'}, optional
+
+        metric: string or callable, default 'minkowski'
+
+        n_jobs: int or None, optional (default=None)
+        """
+
         self.model.set_params(**{
             'n_neighbors': n_neighbors,
             'algorithm': algorithm,
@@ -29,6 +47,12 @@ class KnnRecommenderSystem:
             'n_jobs': n_jobs})
 
     def _prep_data(self):
+        """
+        prepare data for recommender
+
+        task-user scipy sparse matrix
+        hashmap of task to row index in task-user scipy sparse matrix
+        """
         columns = ['id', 'id2', 'Task', 'TaskId', 'rating']
         columns2 = ['TaskId', 'TaskName', 'Task']
         df_tasks = pd.read_csv('DataRecommenderSystem/TasksInterviewVisitor.csv', sep=',', names = columns2)
@@ -41,8 +65,7 @@ class KnnRecommenderSystem:
         tasks_filter = df_ratings.TaskId.isin(popular_tasks).values
 
         df_users_cnt = pd.DataFrame(
-            df_ratings.groupby('id').size(),
-            columns=['count'])
+            df_ratings.groupby('id').size(),columns=['count'])
         active_users = list(set(df_users_cnt.query('count >= @self.user_rating_thres').index))  # noqa
         users_filter = df_ratings.id.isin(active_users).values
         task_names = df_tasks[['TaskId', 'TaskName', 'Task']]
@@ -78,8 +101,8 @@ class KnnRecommenderSystem:
         If no match found, return None
         Parameters
         ----------
-        hashmap: dict, map movie title name to index of the movie in data
-        fav_movie: str, name of user input movie
+        hashmap: dict, map task name to id of task
+        fav_task: str, name of user input movie
         Return
         ------
         index of the closest match
@@ -87,7 +110,7 @@ class KnnRecommenderSystem:
         match_tuple = []
         # get match
         for TaskName, idx in hashmap.items():
-            if idx==98:
+            if idx == 98:
                 print()
             else:
                 ratio = fuzz.ratio(TaskName.lower(), fav_task.lower())
@@ -105,11 +128,11 @@ class KnnRecommenderSystem:
     def _inference(self, model, data, hashmap,
                    fav_task, n_recommendations):
         """
-        return top n similar movie recommendations based on user's input movie
+        return top n similar movie recommendations based on user's chosen task
         Parameters
         ----------
         model: sklearn model, knn model
-        data: movie-user matrix
+        data: task-user matrix
         hashmap: dict, map movie title name to index of the movie in data
         fav_movie: str, name of user input movie
         n_recommendations: int, top n recommendations
@@ -120,7 +143,7 @@ class KnnRecommenderSystem:
         # fit
         model.fit(data)
         # get input movie index
-        print('You have input movie:', fav_task)
+        print('Inputted movie: ', fav_task)
         idx = self._fuzzy_matching(hashmap, fav_task)
         # inference
         print('Recommendation system start to make inference')
@@ -147,10 +170,10 @@ class KnnRecommenderSystem:
 
     def make_recommendations(self, fav_task, n_recommendations):
         """
-        make top n movie recommendations
+        make top n task recommendations
         Parameters
         ----------
-        fav_movie: str, name of user input movie
+        fav_task: str, name of user input movie
         n_recommendations: int, top n recommendations
         """
         # get data
@@ -168,33 +191,13 @@ class KnnRecommenderSystem:
             else:
                 print(idx,dist)
 
-def parse_args():
-    parser = argparse.ArgumentParser(
-        prog="Movie Recommender",
-        description="Run KNN Movie Recommender")
-
-    parser.add_argument('--task_filename', nargs='?', default='DataRecommenderSystem/TasksInterviewVisitor.csv',
-                        help='provide movies filename')
-    parser.add_argument('--ratings_filename', nargs='?', default='DataRecommenderSystem/DataInterviewVisitor.csv',
-                        help='provide ratings filename')
-    parser.add_argument('--movie_name', nargs='?', default='',
-                        help='provide your favoriate movie name')
-    parser.add_argument('--top_n', type=int, default=10,
-                        help='top n movie recommendations')
-    return parser.parse_args()
-
 if __name__ == '__main__':
-    # get args
-    args = parse_args()
 
-
-    movie_name = args.movie_name
-    top_n = args.top_n
     # initial recommender system
     recommender = KnnRecommenderSystem(
         "","")
     # set params
-    recommender.set_filter_params(3, 3)
+    recommender.set_filter_params(0.7, 0.7)
     recommender.set_model_params(10, 'brute', 'cosine', -1)
     # make recommendations
     recommender.make_recommendations("Task4", 10)
