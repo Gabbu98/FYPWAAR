@@ -185,11 +185,15 @@ class KnnRecommenderSystemVisit:
         # print results
         reverse_hashmap = {v: k for k, v in hashmap.items()}
         print('Recommendations for {}:'.format(fav_task))
+        df_ratings = pd.read_csv('DataRecommenderSystem/DataVisitVisitor.csv', sep=',', names=['id', 'id2', 'Task', 'TaskId', 'rating'])
+
+        tasks = df_ratings.Task.tolist()
         for i, (idx, dist) in enumerate(raw_recommends):
             if idx == 98:
                 print()
             else:
-                print(idx,dist)
+                print(idx+1,tasks[idx])
+                print(idx+1,dist)
 
 if __name__ == '__main__':
 
