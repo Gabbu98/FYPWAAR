@@ -1,14 +1,14 @@
 # import cv2
 # import numpy as np
 #
-# # image = cv2.imread('img24.jpg')
-# # kernel = np.array([[-1,-1,-1], [-1,9,-1], [-1,-1,-1]])
-# # sharpened = cv2.filter2D(image, -1, kernel)
-# # #sharpened = cv2.filter2D(image, -1, kernel) # applying the sharpening kernel to the input image & displaying it.
-# # cv2.imshow('Image Sharpening', sharpened)
-# # cv2.imwrite('img24improved.jpg',sharpened)
-# # cv2.waitKey(0)
-# # cv2.destroyAllWindows()
+# image = cv2.imread('Brittanic.jpg')
+# kernel = np.array([[-1,-1,-1], [-1,9,-1], [-1,-1,-1]])
+# sharpened = cv2.filter2D(image, -1, kernel)
+# #sharpened = cv2.filter2D(image, -1, kernel) # applying the sharpening kernel to the input image & displaying it.
+# cv2.imshow('Image Sharpening', sharpened)
+# cv2.imwrite('Work/brittanicImproved.jpg',sharpened)
+# cv2.waitKey(0)
+# cv2.destroyAllWindows()
 ###################################################################################################################################
 # # importing required libraries of opencv
 # import cv2
@@ -30,8 +30,8 @@ from skimage.measure import compare_ssim
 import cv2
 import numpy as np
 
-before = cv2.imread('Work/img9.jpg')
-after = cv2.imread('Work/img9improved.jpg')
+before = cv2.imread('Work/img12.jpg')
+after = cv2.imread('img19.jpg')
 height, width, depth = before.shape
 after = cv2.resize(after,(width,height))   # image resizing
 
@@ -68,18 +68,20 @@ for c in contours:
         cv2.drawContours(mask, [c], 0, (0,255,0), -1)
         cv2.drawContours(filled_after, [c], 0, (0,255,0), -1)
 
-# cv2.imshow('before', before)
-# cv2.imshow('after', after)
-# cv2.imshow('diff',diff)
-# cv2.imshow('mask',mask)
+cv2.imshow('before', before)
+cv2.imshow('after', after)
+cv2.imshow('diff',diff)
+cv2.imshow('mask',mask)
+cv2.imwrite('mask.jpg',mask)
 cv2.imwrite('diff.jpg',diff)
 cv2.imshow('filled after',filled_after)
+cv2.imwrite('filled.jpg',filled_after)
 cv2.waitKey(0)
-########################################################################################################################
-# from skimage.measure import compare_ssim
-# import cv2
-# import numpy as np
-
-# image = cv2.imread('Work/img9.jpg')
-# gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-# cv2.imwrite('diff.jpg',gray)
+# ########################################################################################################################
+# # from skimage.measure import compare_ssim
+# # import cv2
+# # import numpy as np
+#
+# # image = cv2.imread('Work/img9.jpg')
+# # gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+# # cv2.imwrite('diff.jpg',gray)
