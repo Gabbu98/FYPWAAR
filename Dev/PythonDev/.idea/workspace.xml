@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87d60a63-3f1d-4d13-ac3e-257eeed9656e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataRecommenderSystem/DataVisitVisitor.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataRecommenderSystem/DataVisitVisitor.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataRecommenderSystem/recommenderSystemVisit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataRecommenderSystem/recommenderSystemVisit.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot2.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot2.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recommenderSystem.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recommenderSystem.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recommenderSystemInterview.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recommenderSystemInterview.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recommenderSystemVisit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recommenderSystemVisit.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dissertation/Chapter4.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dissertation/Chapter4.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +229,7 @@
       <workItem from="1584786460419" duration="6546000" />
       <workItem from="1585557657956" duration="2851000" />
       <workItem from="1585563641358" duration="2137000" />
-      <workItem from="1585641815059" duration="6548000" />
+      <workItem from="1585641815059" duration="6883000" />
     </task>
     <servers />
   </component>
