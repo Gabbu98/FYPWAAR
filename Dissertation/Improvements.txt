@@ -1,0 +1,4 @@
+Localize->Locate
+Toilets->Restrooms
+Spelling mistakes(connor)
+Top recommendations -> Top 3 Recommendations
