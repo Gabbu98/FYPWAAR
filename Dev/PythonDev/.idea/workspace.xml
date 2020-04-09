@@ -3,44 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="87d60a63-3f1d-4d13-ac3e-257eeed9656e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataRecommenderSystem/recommenderSystemDelivery.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataRecommenderSystem/recommenderSystemDelivery.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot1.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot10.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot10.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot11.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot11.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot12.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot3.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot4.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot5.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot6.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot7.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot7.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataRecommenderSystem/recommenderSystemVisit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataRecommenderSystem/recommenderSystemVisit.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot8.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot8.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot9.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot9.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot10.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot10.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot11.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot11.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot12.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot3.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot4.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot5.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot6.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot7.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot7.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot9.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot8.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot8.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot9.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot9.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot9.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot10.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot10.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot11.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot11.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot12.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot13.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot3.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot4.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot5.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot6.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot7.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot7.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot8.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot8.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot9.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot9.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot9.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/recommenderSystem.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recommenderSystem.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recommenderSystemInterview.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recommenderSystemInterview.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recommenderSystemVisit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recommenderSystemVisit.ipynb" afterDir="false" />
@@ -283,7 +257,8 @@
       <workItem from="1586377404143" duration="1822000" />
       <workItem from="1586379754239" duration="378000" />
       <workItem from="1586421220994" duration="3033000" />
-      <workItem from="1586425708302" duration="241000" />
+      <workItem from="1586425708302" duration="3031000" />
+      <workItem from="1586433878152" duration="1402000" />
     </task>
     <servers />
   </component>
@@ -299,29 +274,29 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="500" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582539285057" />
-    <state width="1493" height="6" key="GridCell.Tab.0.bottom" timestamp="1586425785186">
-      <screen x="-1920" y="-209" width="1536" height="824" />
+    <state width="1317" height="6" key="GridCell.Tab.0.bottom" timestamp="1586433928975">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="1493" height="6" key="GridCell.Tab.0.bottom/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586425785186" />
-    <state width="1317" height="2" key="GridCell.Tab.0.bottom/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1585563709104" />
+    <state width="1317" height="6" key="GridCell.Tab.0.bottom/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1586433928975" />
     <state width="1493" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584729188046" />
-    <state width="1493" height="6" key="GridCell.Tab.0.center" timestamp="1586425785185">
-      <screen x="-1920" y="-209" width="1536" height="824" />
+    <state width="1317" height="6" key="GridCell.Tab.0.center" timestamp="1586433928975">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="1493" height="6" key="GridCell.Tab.0.center/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586425785185" />
-    <state width="1317" height="2" key="GridCell.Tab.0.center/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1585563709104" />
+    <state width="1317" height="6" key="GridCell.Tab.0.center/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1586433928975" />
     <state width="1493" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584729188045" />
-    <state width="1493" height="6" key="GridCell.Tab.0.left" timestamp="1586425785183">
-      <screen x="-1920" y="-209" width="1536" height="824" />
+    <state width="1317" height="6" key="GridCell.Tab.0.left" timestamp="1586433928974">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="1493" height="6" key="GridCell.Tab.0.left/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586425785183" />
-    <state width="1317" height="2" key="GridCell.Tab.0.left/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1585563709103" />
+    <state width="1317" height="6" key="GridCell.Tab.0.left/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1586433928974" />
     <state width="1493" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584729188045" />
-    <state width="1493" height="6" key="GridCell.Tab.0.right" timestamp="1586425785185">
-      <screen x="-1920" y="-209" width="1536" height="824" />
+    <state width="1317" height="6" key="GridCell.Tab.0.right" timestamp="1586433928975">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="1493" height="6" key="GridCell.Tab.0.right/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586425785185" />
-    <state width="1317" height="2" key="GridCell.Tab.0.right/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1585563709104" />
+    <state width="1317" height="6" key="GridCell.Tab.0.right/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1586433928975" />
     <state width="1493" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584729188046" />
     <state width="1493" height="2" key="GridCell.Tab.1.bottom" timestamp="1584800062895">
       <screen x="-1920" y="-209" width="1536" height="824" />
@@ -351,11 +326,11 @@
       <screen x="-1920" y="-209" width="1536" height="824" />
     </state>
     <state x="-1643" y="-155" key="SettingsEditor/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586378717729" />
-    <state x="-1455" y="27" key="com.intellij.ide.util.TipDialog" timestamp="1586425718378">
-      <screen x="-1920" y="-209" width="1536" height="824" />
+    <state x="412" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1586433897679">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="-1455" y="27" key="com.intellij.ide.util.TipDialog/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586425718378" />
-    <state x="412" y="209" key="com.intellij.ide.util.TipDialog/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1585642118639" />
+    <state x="412" y="209" key="com.intellij.ide.util.TipDialog/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1586433897679" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583754693428" />
     <state x="-1926" y="-209" width="781" height="830" key="dock-window-1" timestamp="1584377293834">
       <screen x="-1920" y="-209" width="1536" height="824" />
