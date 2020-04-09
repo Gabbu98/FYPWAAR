@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87d60a63-3f1d-4d13-ac3e-257eeed9656e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/truncated.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dissertation/Thesis.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dissertation/Thesis.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/recommenderSystem-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/recommenderSystem-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataRecommenderSystem/recommenderSystemDelivery.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataRecommenderSystem/recommenderSystemDelivery.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataRecommenderSystem/recommenderSystemInterview.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataRecommenderSystem/recommenderSystemInterview.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataRecommenderSystem/recommenderSystemVisit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataRecommenderSystem/recommenderSystemVisit.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KnnRecommenderSystemDelivery.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KnnRecommenderSystemInterview.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KnnRecommenderSystemVisitor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecommenderSystem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/FinalResults/Average.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/FinalResults/Average.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/FinalResults/Error.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/FinalResults/Error.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/FinalResults/StandardDev.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/FinalResults/StandardDev.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommenderSystem.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recommenderSystem.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommenderSystemInterview.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recommenderSystemInterview.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommenderSystemVisit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recommenderSystemVisit.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,29 +73,7 @@
       <recent name="C:\Users\gabri\Workspace\AI\Thesis\Dev\PythonDev\Work" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.KnnRecommenderSystem">
-    <configuration name="KnnRecommenderSystem" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonDev" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\gabri\Workspace\AI\Thesis\FinalYearProject\FYPWAAR\Dev\PythonDev\KnnRecommenderSystemInterview.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.truncated">
     <configuration name="KnnRecommenderSystemDelivery" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonDev" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,13 +162,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="truncated" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonDev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/truncated.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.truncated" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.RecommenderInterview" />
         <item itemvalue="Python.KnnRecommenderSystemVisitor" />
         <item itemvalue="Python.KnnRecommenderSystemDelivery" />
-        <item itemvalue="Python.KnnRecommenderSystem" />
       </list>
     </recent_temporary>
   </component>
@@ -239,6 +253,8 @@
       <workItem from="1586421220994" duration="3033000" />
       <workItem from="1586425708302" duration="3031000" />
       <workItem from="1586433878152" duration="2694000" />
+      <workItem from="1586459780142" duration="2290000" />
+      <workItem from="1586463119234" duration="6945000" />
     </task>
     <servers />
   </component>
@@ -254,29 +270,29 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="500" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582539285057" />
-    <state width="1317" height="6" key="GridCell.Tab.0.bottom" timestamp="1586433928975">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="745" height="198" key="GridCell.Tab.0.bottom" timestamp="1586466234438">
+      <screen x="-1920" y="-209" width="1536" height="824" />
     </state>
-    <state width="1493" height="6" key="GridCell.Tab.0.bottom/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586425785186" />
-    <state width="1317" height="6" key="GridCell.Tab.0.bottom/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1586433928975" />
+    <state width="745" height="198" key="GridCell.Tab.0.bottom/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586466234438" />
+    <state width="657" height="274" key="GridCell.Tab.0.bottom/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1586461866496" />
     <state width="1493" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584729188046" />
-    <state width="1317" height="6" key="GridCell.Tab.0.center" timestamp="1586433928975">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="745" height="198" key="GridCell.Tab.0.center" timestamp="1586466234438">
+      <screen x="-1920" y="-209" width="1536" height="824" />
     </state>
-    <state width="1493" height="6" key="GridCell.Tab.0.center/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586425785185" />
-    <state width="1317" height="6" key="GridCell.Tab.0.center/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1586433928975" />
+    <state width="745" height="198" key="GridCell.Tab.0.center/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586466234438" />
+    <state width="657" height="274" key="GridCell.Tab.0.center/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1586461866495" />
     <state width="1493" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584729188045" />
-    <state width="1317" height="6" key="GridCell.Tab.0.left" timestamp="1586433928974">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="745" height="198" key="GridCell.Tab.0.left" timestamp="1586466234436">
+      <screen x="-1920" y="-209" width="1536" height="824" />
     </state>
-    <state width="1493" height="6" key="GridCell.Tab.0.left/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586425785183" />
-    <state width="1317" height="6" key="GridCell.Tab.0.left/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1586433928974" />
+    <state width="745" height="198" key="GridCell.Tab.0.left/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586466234436" />
+    <state width="657" height="274" key="GridCell.Tab.0.left/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1586461866495" />
     <state width="1493" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584729188045" />
-    <state width="1317" height="6" key="GridCell.Tab.0.right" timestamp="1586433928975">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="745" height="198" key="GridCell.Tab.0.right" timestamp="1586466234438">
+      <screen x="-1920" y="-209" width="1536" height="824" />
     </state>
-    <state width="1493" height="6" key="GridCell.Tab.0.right/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586425785185" />
-    <state width="1317" height="6" key="GridCell.Tab.0.right/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1586433928975" />
+    <state width="745" height="198" key="GridCell.Tab.0.right/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586466234438" />
+    <state width="657" height="274" key="GridCell.Tab.0.right/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1586461866495" />
     <state width="1493" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584729188046" />
     <state width="1493" height="2" key="GridCell.Tab.1.bottom" timestamp="1584800062895">
       <screen x="-1920" y="-209" width="1536" height="824" />
@@ -306,32 +322,20 @@
       <screen x="-1920" y="-209" width="1536" height="824" />
     </state>
     <state x="-1643" y="-155" key="SettingsEditor/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586378717729" />
-    <state x="412" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1586433897679">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state x="-1455" y="27" key="com.intellij.ide.util.TipDialog" timestamp="1586463119074">
+      <screen x="-1920" y="-209" width="1536" height="824" />
     </state>
-    <state x="-1455" y="27" key="com.intellij.ide.util.TipDialog/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586425718378" />
-    <state x="412" y="209" key="com.intellij.ide.util.TipDialog/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1586433897679" />
+    <state x="-1455" y="27" key="com.intellij.ide.util.TipDialog/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586463119074" />
+    <state x="412" y="209" key="com.intellij.ide.util.TipDialog/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1586459781500" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583754693428" />
     <state x="-1926" y="-209" width="781" height="830" key="dock-window-1" timestamp="1584377293834">
       <screen x="-1920" y="-209" width="1536" height="824" />
     </state>
     <state x="-1926" y="-209" width="781" height="830" key="dock-window-1/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1584377293834" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/KnnRecommenderSystemInterview.py</url>
-          <line>187</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/KnnRecommenderSystemDelivery.py</url>
-          <line>115</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="-1495" y="-143" width="672" height="676" key="search.everywhere.popup" timestamp="1586469675498">
+      <screen x="-1920" y="-209" width="1536" height="824" />
+    </state>
+    <state x="-1495" y="-143" width="672" height="676" key="search.everywhere.popup/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1586469675498" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonDev$main.coverage" NAME="main Coverage Results" MODIFIED="1585560045005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -341,5 +345,6 @@
     <SUITE FILE_PATH="coverage/PythonDev$KnnRecommenderSystem.coverage" NAME="KnnRecommenderSystem Coverage Results" MODIFIED="1583965082165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonDev$RecommenderInterview.coverage" NAME="RecommenderInterview Coverage Results" MODIFIED="1584792109608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonDev$RecommenderSystem.coverage" NAME="RecommenderSystem Coverage Results" MODIFIED="1583313079811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonDev$truncated.coverage" NAME="truncated Coverage Results" MODIFIED="1586462314076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
