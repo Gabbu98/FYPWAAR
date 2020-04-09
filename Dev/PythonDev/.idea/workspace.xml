@@ -3,21 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="87d60a63-3f1d-4d13-ac3e-257eeed9656e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataRecommenderSystem/recommenderSystemVisit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataRecommenderSystem/recommenderSystemVisit.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot8.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot8.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Delivery/Plot9.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot8.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot8.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Interview/Plot9.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot10.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot10.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot11.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot11.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot5.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot6.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot7.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot7.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot8.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot8.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Testing/RecommendationSystem/Visit/Plot9.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recommenderSystem.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recommenderSystem.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recommenderSystemInterview.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recommenderSystemInterview.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recommenderSystemVisit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recommenderSystemVisit.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dissertation/Thesis.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dissertation/Thesis.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="JupyterTrust" id="bd9b5e32-58cf-41e8-bb65-a4742dfab0ad">
-    <option name="files">
-      <option value="recommenderSystem.ipynb" />
-      <option value="recommenderSystemInterview.ipynb" />
-      <option value="recommenderSystemVisit.ipynb" />
-    </option>
-  </component>
+  <component name="JupyterTrust" id="bd9b5e32-58cf-41e8-bb65-a4742dfab0ad" />
   <component name="ProjectId" id="1XkCf1HVs41gPXpCNQhblRLUBYB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -258,7 +238,7 @@
       <workItem from="1586379754239" duration="378000" />
       <workItem from="1586421220994" duration="3033000" />
       <workItem from="1586425708302" duration="3031000" />
-      <workItem from="1586433878152" duration="1402000" />
+      <workItem from="1586433878152" duration="2694000" />
     </task>
     <servers />
   </component>
