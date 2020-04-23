@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="DelonghESAM2600" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="DelonghESAM2600s_assembly" assemblyId="69d8393c2ba64e46975dcf450e199bf6">
+<Part name="DelonghESAM2600" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="79.8775 178.909 757.568" rotation="AD: 0.9999999999974315 -0.00013614184805959658 -0.016650902729133908 179.063" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

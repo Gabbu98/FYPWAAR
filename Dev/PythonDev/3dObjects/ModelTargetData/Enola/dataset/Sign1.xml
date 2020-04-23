@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Sign1" motionHint="adaptive"/>
+
+</Tracking>
+
+<Assembly name="Sign1s_assembly" assemblyId="88f0c48e6ce84215a7f2ae1b8fc8144b">
+<Part name="Sign1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="6.23157e-05 -9.75175e-05 0.0270441" rotation="AD: 0.9999999998893281 -0.0008039754886959373 0.018525670666421003 184.969" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
