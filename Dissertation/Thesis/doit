@@ -1,0 +1,5 @@
+pdflatex Dissertation
+bibtex Dissertation
+pdflatex Dissertation
+pdflatex Dissertation
+rm *.aux *.log *.bbl *.blg *.lof *.lot *.toc

@@ -1,0 +1,6 @@
+	pdflatex --shell-escape sig-alternate.tex
+	bibtex sig-alternate
+	pdflatex --shell-escape sig-alternate.tex
+	pdflatex --shell-escape sig-alternate.tex
+	rm -f sig-alternate.aux sig-alternate.bbl sig-alternate.div sig-alternate.log sig-alternate.nav sig-alternate.out sig-alternate.snm sig-alternate.toc sig-alternate.vrb
+
