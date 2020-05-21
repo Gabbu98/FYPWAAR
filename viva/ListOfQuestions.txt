@@ -1,0 +1,10 @@
+1. Why did you not include a nav system?
+2. Why did you create a dataset yourself and about its reliability?
+3. How does the RS work?
+4. Explain the AR part.
+5. Why did you choose SVD++ why not use deep learning str8 away?
+6. The panning issue explain.
+7. Why did you not include live directions?
+8. Why did you not quantity test Vuforia algorithms and what kind of algs did they make use of?
+9. What would you improve?
+10 What other applications why specifically this workplace?
