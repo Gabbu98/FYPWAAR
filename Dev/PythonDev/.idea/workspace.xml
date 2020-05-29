@@ -3,51 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="87d60a63-3f1d-4d13-ac3e-257eeed9656e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PosterTemplate1/AI/Poster_Template1 B.Sc.IT.AI.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../PosterTemplate1/AI/Poster_Template1 B.Sc.IT.AI.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PosterTemplate1/AI/Poster_Template1 B.Sc.IT.AI.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../PosterTemplate1/AI/Poster_Template1 B.Sc.IT.AI.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/94312270_362724428016453_2942430975788843008_n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/ImageOcclusion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/ImageOrientationVariance.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/ImageTargetColourVariance.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/ImageTargetDistanceVairance.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Impl1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Impl10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Impl11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Impl12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Impl13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Impl15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Impl16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Impl19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Impl2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Impl3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Impl4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Impl7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Impl8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Impl9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/InternQuery.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/MaximumRotationImageTargets.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/MaximumRotationModelTargets.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/MeanMAE.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/MeanRMSE.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/ModelOrientation.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/ModelTargetColourVariance.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/ModelTargetDistanceVariance.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/OcclusionAmount.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/OcclusionImageTargetStrenghtBarChart.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/OcclusionModelTargetStrenghtBarChart.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Plot9Delivery.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Plot9Interview.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/PlotVisit.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/SystemArchitecture.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/VisitorQueryModel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/Workplace assistant augmented reality.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/feautreextraction.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/feautreextraction2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/feautreextraction3.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/feautreextraction4.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/focusedWorking.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/researchquestion.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Powerpoint/~$Workplace assistant augmented reality.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dissertation/Chapters/Thesis.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dissertation/Chapters/Thesis.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ThesisToSubmitFolder/Dissertation/Thesis.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThesisToSubmitFolder/Dissertation/Thesis.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,6 +252,7 @@
       <workItem from="1588668143095" duration="17000" />
       <workItem from="1589525626562" duration="45000" />
       <workItem from="1589922848590" duration="109000" />
+      <workItem from="1590499979481" duration="494000" />
     </task>
     <servers />
   </component>
@@ -366,12 +324,12 @@
       <screen x="-1920" y="-209" width="1536" height="824" />
     </state>
     <state x="-1643" y="-155" key="SettingsEditor/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1587630256713" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1589525626539">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590499980258">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1455" y="27" key="com.intellij.ide.util.TipDialog/0.0.1360.728/-1920.-209.1536.824@-1920.-209.1536.824" timestamp="1588668144747" />
     <state x="412" y="209" key="com.intellij.ide.util.TipDialog/0.0.1360.728/-1920.-209.1536.824@0.0.1360.728" timestamp="1586529575873" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1589525626539" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1590499980258" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583754693428" />
     <state x="-1926" y="-209" width="781" height="830" key="dock-window-1" timestamp="1584377293834">
       <screen x="-1920" y="-209" width="1536" height="824" />
